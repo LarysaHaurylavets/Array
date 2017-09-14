@@ -2,4 +2,4 @@
 //Object.keys(объект);
 
 var obj={js:'test',  jq:'hello', css: 'world'};
-console.log(Object.keys(obj));
+console.log(Object.keys(obj)); //[ 'js', 'jq', 'css' ]
