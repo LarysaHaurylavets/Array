@@ -1,3 +1,3 @@
 # Array
 
-Work with different methods of array
+Work with different methods of array.
